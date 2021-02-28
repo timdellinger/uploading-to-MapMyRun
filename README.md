@@ -9,3 +9,5 @@ on the app
 
 recall that selenium requires a webdriver (such as gecko for firefox), which
 needs to be downloaded, unzipped, and put into /usr/local/bin/
+
+buttons were identified using the xPath Finder add-on for Firefox
